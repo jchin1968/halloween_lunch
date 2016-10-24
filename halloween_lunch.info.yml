@@ -1,0 +1,4 @@
+name: Halloween Lunch
+description: 'Customizations to the lunch module'
+type: module
+core: 8.x
